@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+table th {
+  font-size: 6vh;
+  margin-left: 1vh;
+  margin-right: 1vh;
+}
+
+img {
+  object-fit: cover;
+  height: 300px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+  color: rgb(230, 14, 115);
+}
+
+footer {
+  text-align: center;
+}
+
+div table {
+  width: 100%;
+}
+
+label {
+  font-size: 4vh;
+}
+
+input {
+  font: size 4vh;
+}
+
+td {
+  border: 5px;
+  font-size: 3vh;
+  border-color: coral;
+  text-align: center;
+}
+
+div br {
+  line-height: 1px;
+  color: green;
+}
+
+.giant-font {
+  font-size: 3em;
+}
+
+.hidden {
+  visibility: hidden;
+}
